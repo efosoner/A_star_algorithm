@@ -20,7 +20,6 @@ load seed.mat;
 map = map+map.*rand(20);
 [A,H] = makegraph2(map);
 G = graph(A);
-C = plot(G);
 counter = 0;
 disp(map)
 
@@ -70,5 +69,5 @@ while (true)
     end
 end
 
-highlight(C, path) %podœwietlenie drogi zad.7
+disp(path)
 
