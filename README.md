@@ -1,7 +1,7 @@
 # A_star_algorithm
 "Simple" implementation of A* algorithm in MatLab
 
-# Input example (3,4,5,18 line of code)
+# Input example (3rd, 4th, 5th, 18th line of code)
 
 start = 1; % 3rd line
 
