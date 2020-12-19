@@ -1,5 +1,5 @@
 # A_star_algorithm
-"Simple" implementation of A* algorithm in MatLab
+implementation of A* algorithm in MatLab
 
 # Input example (3rd, 4th, 5th, 18th line of code)
 
